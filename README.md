@@ -84,7 +84,3 @@ Built as part of the BSCCS2003 Application Development course (Week-7 Lab Assign
 *(You can add screenshots of the UI here for better visualization)*
 
 ---
-
-## License
-
-This project is developed for academic purposes as part of the BSCCS2003 course assignment.
